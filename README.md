@@ -6,8 +6,8 @@ I'm Vidumini Bandara from Sri Lanka , and I'm an enthusiastic, hardworking, frie
 
 
 You can check out me,
-Medium https://vidumibandara23.medium.com/ 
-LinkedIn https://www.linkedin.com/in/vidumini-bandara/
+Medium : https://vidumibandara23.medium.com/ 
+LinkedIn : https://www.linkedin.com/in/vidumini-bandara/
 
 
 
