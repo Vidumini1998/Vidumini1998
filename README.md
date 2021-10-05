@@ -9,12 +9,6 @@ You can reach me at,
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://vidumibandara23.medium.com/)
 
 
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-<br>
-vidumini.18@itfac.mrt.ac.lk
-<br>
-
-
 <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=JavaScript&logoColor=fff"> <img src="https://img.shields.io/badge/-HTML-e34f26?logo=html5&logoColor=fff"> <img src="https://img.shields.io/badge/-CSS-1572B6?logo=CSS3&logoColor=fff"> <img src="https://img.shields.io/badge/--512BD4?logo=.NET&logoColor=fff"> 
 
 ![Github status](https://github-readme-stats.vercel.app/api?username=Vidumini1998&count_private=true&show_icons=true&theme=radical)
