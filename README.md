@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+   <!-- About me -->
+
 I'm Vidumini Bandara from Sri Lanka , and I'm an enthusiastic, hardworking, flexible and creative undergraduate of Faculty of Information Technology , University of Moratuwa. I really enjoy learning langauges and frameworks such as C#, Java, .NET, .NET Core, HTML, JavaScript, CSS, Bootstrap. I enjoy web development in general. Also I'm a blog writter at Medium . 
 <br>
 
@@ -7,10 +9,48 @@ You can reach me at,
 <br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vidumini-bandara/)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://vidumibandara23.medium.com/)
+<br>
+
+<div>
+  
+<a href="https://github.com/alexsgross">
 
 
-<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=JavaScript&logoColor=fff"> <img src="https://img.shields.io/badge/-HTML-e34f26?logo=html5&logoColor=fff"> <img src="https://img.shields.io/badge/-CSS-1572B6?logo=CSS3&logoColor=fff"> <img src="https://img.shields.io/badge/--512BD4?logo=.NET&logoColor=fff"> 
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vidumini1998&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
 
-![Github status](https://github-readme-stats.vercel.app/api?username=Vidumini1998&count_private=true&show_icons=true&theme=radical)
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vidumini1998&layout=compact&langs_count=7&theme=radical"/>
+    
+   <!-- Tecnologias -->  
 
-![Language used](https://github-readme-stats.vercel.app/api/top-langs/?username=Vidumini1998&show_icons=true&theme=radical)
+<div style="display: inline_block">
+
+ <h3> Language & Framework </h3>
+
+ <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  
+  <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/dot-net/dot-net-original.svg">
+
+  <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
+  
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+
+ <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">  
+
+ <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">  
+
+ <img align="center" alt="bootstrp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/bootstrap/bootstrap-plain-wordmark.svg">
+
+ <hr>
+ 
+  <h3> Developing and Multimedia Tools </h3>  
+
+ <img align="center" alt="Visual Studio" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/visualstudio/visualstudio-plain.svg">
+  
+  <img align="center" alt="VS code" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/vscode/vscode-original.svg">
+  
+   <img align="center" alt="protoshop" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/photoshop/photoshop-line.svg">
+  
+   <img align="center" alt="g" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original-wordmark.svg" />
+
+<hr>
+
