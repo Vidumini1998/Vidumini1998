@@ -24,7 +24,7 @@ You can reach me at,
 
 <div style="display: inline_block">
 
- <h3> Language & Framework </h3>
+ <h3> Languages & Frameworks </h3>
 
  <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   
