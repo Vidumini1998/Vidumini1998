@@ -1,6 +1,7 @@
-### Hi there 👋
+### Hi there ![4Snj](https://user-images.githubusercontent.com/61631892/156098098-5cab310f-41b2-4da6-ab45-81a96c040b15.gif)
 
    <!-- About me -->
+
 
 I'm Vidumini Bandara from Sri Lanka, and I'm an enthusiastic, hardworking, flexible and creative undergraduate of Faculty of Information Technology , University of Moratuwa. I really enjoy learning langauges and frameworks such as C#, Java, .NET, .NET Core, HTML, JavaScript, CSS, Bootstrap. I enjoy web development in general. Also I'm a blog writter at Medium . 
 <br>
