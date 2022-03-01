@@ -1,4 +1,4 @@
-### Hi there ![4Snj](https://user-images.githubusercontent.com/61631892/156098098-5cab310f-41b2-4da6-ab45-81a96c040b15.gif)
+### Hi there 👋
 
    <!-- About me -->
 
