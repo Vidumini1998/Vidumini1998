@@ -3,7 +3,7 @@
    <!-- About me -->
 
 
-I'm Vidumini Bandara from Sri Lanka, and I'm an enthusiastic, hardworking, flexible and creative undergraduate of Faculty of Information Technology , University of Moratuwa. I really enjoy learning langauges and frameworks such as C#, Java, .NET, .NET Core, HTML, JavaScript, CSS, Bootstrap. I enjoy web development in general. Also I'm a blog writter at Medium . 
+I'm Vidumini Bandara from Sri Lanka, and I'm an enthusiastic, hardworking, flexible and creative undergraduate of Faculty of Information Technology , University of Moratuwa. I really enjoy learning langauges and frameworks such as C#, Java, .NET, VB.NET, HTML, JavaScript, CSS, Bootstrap. I enjoy web development in general. Also I'm a blog writter at Medium . 
 <br>
 
 You can reach me at,
