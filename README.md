@@ -7,6 +7,7 @@ I'm Vidumini Bandara from Sri Lanka, and I'm an enthusiastic, hardworking, flexi
 <br>
 
 You can reach me at,
+
 <br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vidumini-bandara/)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://vidumibandara23.medium.com/)
