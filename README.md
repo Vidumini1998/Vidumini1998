@@ -54,4 +54,12 @@ You can reach me at,
    <img align="center" alt="g" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original-wordmark.svg" />
 
 <hr>
+   
+<br> 
+   
+<h2 align="center">
+<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif" alt="Coder GIF" width="500">
+</h2>
+ 
+<br>
 
